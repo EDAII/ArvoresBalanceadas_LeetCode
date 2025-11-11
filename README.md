@@ -9,6 +9,8 @@
 ## Descrição do projeto
 Para essa entrega nossa dupla optou pela prática de questões envolvendo árvores balanceadas no LeetCode.
 
+## Vídeo
+https://www.youtube.com/watch?v=zqZVcRksMEE
 
 ## Sobre as questões
 
