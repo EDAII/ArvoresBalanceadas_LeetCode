@@ -1,0 +1,5 @@
+Link para a questão 710:
+https://leetcode.com/problems/random-pick-with-blacklist/description/
+
+link para a questao 3542:
+https://leetcode.com/problems/minimum-operations-to-convert-all-elements-to-zero/description/?envType=daily-question&envId=2025-11-10
