@@ -1,3 +1,9 @@
+Link para a questão 98:
+https://leetcode.com/problems/validate-binary-search-tree/description/
+
+Link para a questão 124:
+https://leetcode.com/problems/binary-tree-maximum-path-sum/description/
+
 Link para a questão 710:
 https://leetcode.com/problems/random-pick-with-blacklist/description/
 
