@@ -100,4 +100,18 @@ Zerando pelo mínimo e processando os segmentos recursivamente
 A prátiva das questões nos ajudou bastante a fixar os conceitos de árvores balanceadas, além de nos proporcionar o contato com diferentes tipos de problemas que podem ser resolvidos com essas estruturas de dados.
 
 ## Referências
-Caso tenha utilizado algum agoritmo como base, citar o mesmo devidamente para  evitar quaisquer denuncias de plágio.
+> CORMEN, Thomas H. Algoritmos: teoria e prática. 3. ed. Rio de Janeiro: Elsevier, 2012.
+>
+> SEDGEWICK, Robert; WAYNE, Kevin. Algorithms. 4th ed. Boston: Addison-Wesley, 2011.
+>
+> KNUTH, Donald E. The Art of Computer Programming: Sorting and Searching. v. 3. 2nd ed. Boston: Addison-Wesley, 1998.
+> 
+> LEETCODE. Problem 98 – Validate Binary Search Tree. Disponível em: https://leetcode.com/problems/validate-binary-search-tree/. Acesso em: 10 nov. 2025.
+> 
+> LEETCODE. Problem 124 – Binary Tree Maximum Path Sum. Disponível em: https://leetcode.com/problems/binary-tree-maximum-path-sum/. Acesso em: 10 nov. 2025.
+> 
+> LEETCODE. Problem 710 – Random Pick with Blacklist. Disponível em: https://leetcode.com/problems/random-pick-with-blacklist/. Acesso em: 10 nov. 2025.
+> 
+> LEETCODE. Problem 3542 – Minimum Operations to Convert All Elements to Zero. Disponível em: https://leetcode.com/problems/minimum-operations-to-convert-all-elements-to-zero/. Acesso em: 10 nov. 2025.
+> 
+> MANBER, Udi. Introduction to Algorithms: A Creative Approach. Reading, MA: Addison-Wesley, 1989.
